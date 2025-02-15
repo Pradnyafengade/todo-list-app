@@ -1,5 +1,6 @@
 # syntax=docker/dockerfile:1
 
+#added new line
 FROM node:20-alpine
 WORKDIR /app
 COPY . .
