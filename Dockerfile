@@ -1,5 +1,7 @@
 # syntax=docker/dockerfile:1
 
+
+#Process successfully launch
 #added new line
 FROM node:20-alpine
 WORKDIR /app
